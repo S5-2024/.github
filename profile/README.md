@@ -1,4 +1,4 @@
-<img src="https://github.com/S5-2024/.github/blob/main/profile/banners.png">
+<img src="https://github.com/S5-2024/.github/blob/main/profile/banners%20(1).png">
 
 
 <h2> 🤓 Usabilidade, desenvolvimento web, mobile e jogos</h2>
