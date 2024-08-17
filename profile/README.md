@@ -1,7 +1,5 @@
 <img src="https://github.com/S5-2024/.github/blob/main/profile/banners.png">
 
-<p> Esse semestre vai ser focado em desenvolvimento de aplicações! </p>
-
 
 <h2> 🤓 Usabilidade, desenvolvimento web, mobile e jogos</h2>
 
