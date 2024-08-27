@@ -11,7 +11,7 @@
 
 
 <h2> 🤓 Sistemas distribuidos e mobile </h2>
- <h4 align="center"> <em> Professores responsáveis: Poyatos &  --- </em></h4>
+ <h4 align="center"> <em> Professores responsáveis: Poyatos &  Cverino </em></h4>
 
 
 
